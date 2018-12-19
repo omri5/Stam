@@ -1,0 +1,349 @@
+
+
+
+eurusd
+1205,1049,936,967,1082,873
+686,623,650,589,491,462,503
+523,599,663,685,748
+
+
+
+Corn
+
+3589
+3520
+3568
+3584
+3534
+3535
+3541
+3587
+3528
+3482
+3541
+3534
+3544
+3510
+3569
+3611
+3664
+3677
+3736
+3739
+3849
+3951
+3847
+3802
+3915
+3938
+3914
+3845
+3986
+4064
+
+
+
+אנו מודים לך על ההרשמה.
+
+פרטי הכניסה שלך הם:
+
+כניסה: 4238527
+שרת: Ava - Demo‎‎‎
+סיסמה: Atr054
+
+
+eurusd (from 17.04):
+
+1818
+1772
+1597
+1608
+1664
+1794
+1930
+1890
+1764
+1753
+1857
+1997
+2040
+2186
+2220
+2419
+2461
+2234
+2405
+2293
+2330
+2305
+2288
+2353
+2317
+2284
+2336
+2280
+2130
+1956
+
+
+Sugar
+
+1434
+1397
+1454
+1456
+1494
+1528
+1539
+1495
+1402
+1356
+1457
+1503
+1502
+1428
+1333
+1347
+1368
+1355
+1326
+1344
+1344
+1292
+1271
+1265
+1235
+1234
+1216
+1184
+1161
+1152
+
+
+jul 03 + 4W
+NaturalGas (Henry Hub Natural Gas Futures) #NG_F
+
+3079
+3055
+2967
+3014
+3251
+3176
+2907
+3053
+2774
+2625
+2654
+2935
+2768
+3065
+2984
+3159
+2839
+2604
+2585
+2658
+2708
+2732
+2704
+2616
+2725
+2706
+2746
+2753
+2764
+2707
+
+
+
+BRENT  https://www.ifcmarkets.com/en/market-data/commodities-prices/brent
+
+5698
+5770
+6010
+6203
+6353
+6256
+6340
+6366
+6326
+6287
+6458
+6657
+6758
+6952
+6850
+7006
+6830
+6260
+6468
+6703
+6447
+6541
+6601
+6974
+6935
+6688
+7205
+7322
+7362
+7481
+
+
+Precious metals :xpdusd
+Palladum https://www.ifcmarkets.com/en/market-data/precious-metals-prices/xpdusd 
+
+
+Platinum https://www.ifcmarkets.com/en/market-data/precious-metals-prices/xptusd
+
+
+Gold vs SP500 https://www.ifcmarkets.com/en/market-data/gold-trading-prices/xausnp
+
+5103
+4970
+4930
+4906
+4938
+5015
+4947
+4843
+4704
+4693
+4743
+4873
+4812
+4802
+4738
+4698
+4823
+5018
+4935
+4836
+4910
+4748
+4775
+5198
+5018
+5117
+5058
+5000
+4955
+4931
+
+
+DOW
+
+22877
+23320
+23430
+23533
+23420
+23356
+23556
+24225
+24324
+24641
+24763
+24721
+25294
+25799
+26067
+26608
+25501
+24180
+25210
+25310
+24531
+25330
+24926
+23528
+24156
+23931
+24366
+24458
+24307
+24261
+
+
+
+COPPER
+
+3137
+3175
+3113
+3127
+3087
+3087
+3190
+3094
+2977
+3132
+3242
+3294
+3236
+3231
+3194
+3209
+3191
+3056
+3254
+3226
+3132
+3142
+3114
+2982
+3030
+3048
+3078
+3149
+3071
+3082
+
+
+RBV2017 = Gasoline
+
+
+
+Gas = Oil + Sugar
+
+
+
+
+StateMachine
+
+- lstState : HashMap<String,State>
+- lstEv : HashMap<String, Event>
+- lstTransition : HashMap <Pair<State,Event>, State>
+
+
+DLM
+
+- sm: StateMatine
+- m_defect: Defect
+
++ init(Defect)
++ addState(string, callback)
++ addTransition(string state, string event, string destState)
++ grabDefectImage(location)
++ grabClassImage(location)
++ detection(Defect, Image)
+
+
+
+
+Android box - W1711260912347957
+
+Disclaimer and Risk Warning:
+This product is being offered as part of our Beta testing program. So far - 98% success. 
+However, Intelligent4C will not be held liable for any loss or damage resulting from reliance on anything within this acount, so any usage at your own risk.
+
+
+#natgas $natgas : Optemistic☝️ #AI #prediction for week ahead:
+Current price: 2.774
+Predicted target: 2.817
+Estimated "second step" target: 2.844
+
+#ArtificialIntelligence
+
+The #AI prediction suggest a specific value sometimes durring the upcoming week.
+Currently, we are not trying to find the value at the end of the week, or the maximum possible profit.
